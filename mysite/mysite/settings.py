@@ -25,7 +25,7 @@ SECRET_KEY = 'p_w8i4-(+%#vj=()^)q(7y0*vfm%0us(@lz8=xjoqt)s=7+-)q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.7.78']
 
 
 SITE_ID = 1
