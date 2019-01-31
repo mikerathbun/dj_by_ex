@@ -16,4 +16,4 @@ class PostSitemap(Sitemap):
 
     def lastmod(self, obj):
         """returns the time obj was updated """
-        return obj.updated()
+        return obj.updated
