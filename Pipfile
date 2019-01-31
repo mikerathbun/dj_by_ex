@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 django-taggit = "*"
 markdown = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.7"
